@@ -11,5 +11,5 @@ https://en.wikipedia.org/wiki/United_States_presidential_election,_2016
 - SenatorTweets.Rproj
 - tweets_electoralcollege.R
 - senators.csv
-- ReadMe_senators_tweet_trump
+- ReadMe_senators_tweet_trump.txt (this file)
 - senators_tweet_trump.jpeg
