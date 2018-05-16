@@ -1,6 +1,5 @@
 Race and Gender Disparities in Children's Incarceration Rates Based on Parents' Income
 Sunny Drescher
-Visualization replication
 
 * Data Source
 Race and Economic Opportunity in the United States: An Intergenerational Perspective
@@ -15,8 +14,3 @@ http://www.equality-of-opportunity.org/data/
 - table_1.csv (EOP data)
 - incarceratedkids.jpeg
 - ReadMe_parent_income_incarceration.txt (this file)
-
-* Replication Process
-(1) Download compressed file.
-(2) Open RaceEconomicOpportunityEOP2018.Rproj
-(3) Run raceeconopportunity.R
